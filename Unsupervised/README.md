@@ -8,8 +8,12 @@ Chromosomes fold into domains with preferential intradomain interactions. These 
 
 #### Kmeans_test_new.ipynb
 
-The jupyter notebook that have been used to process and visualize the data using K-Mean algorithm. The notebook uses Python coding language with the support of avaliable libraries.
+The jupyter notebook that have been used to process and visualize data using K-Mean algorithm. This notebook uses Python coding language with the support of avaliable libraries.
 
 #### Boxplots
 
+The images files of boxplots showing average expression of cluster data over all chromosomes separated by sample histones. More information on how the images were obtainted in the Kmeans_test_new.ipynb file.
+
 #### Heatmaps
+
+The images files of heatmaps to show the distinction in the average cluster expression of most of the chromosome boundaries between histones. More information on how the images were obtainted in the Kmeans_test_new.ipynb file.

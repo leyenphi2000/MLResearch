@@ -16,8 +16,4 @@ The images files of boxplots showing average expression of cluster data over all
 
 #### Heatmaps
 
-<<<<<<< HEAD
 The images files of heatmaps to show the distinction in the average cluster expression of most of the chromosome boundaries between histones. More information on how the images were obtainted in the Kmeans_test_new.ipynb file.
-=======
-The images files of heatmaps to show the distinction in the average cluster expression of most of the chromosome boundaries between histones. More information on how the images were obtainted in the Kmeans_test_new.ipynb file.
->>>>>>> 12c63375b9557c4285f238c111c544eda7af95b1
